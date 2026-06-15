@@ -1,0 +1,4 @@
+gymnasium[mujoco]
+imageio
+wasmtime
+numpy

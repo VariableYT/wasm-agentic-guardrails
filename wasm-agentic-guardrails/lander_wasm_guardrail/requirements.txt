@@ -1,0 +1,3 @@
+gymnasium[box2d]
+wasmtime
+numpy
